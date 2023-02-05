@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 
 This is an addition for rebasing example - masterbranch
 
+more changes  - newfeature
 ## Purpose
 
 Sample website with plenty of files for demos
