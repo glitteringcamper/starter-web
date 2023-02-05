@@ -1,9 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
-
+# TEAM	
     <name> -- <role> -- <twitter>
+    Krishnanunni	Developer 	@kriskrome93
 
 # THANKS
 
